@@ -105,7 +105,7 @@
 ### Authentication Flow
 | OTP Verification | Interests Selection | User Type Selection | Profile Setup |
 |------------------|-------------------|-------------------|---------------|
-| ![OTP](assets/screenshots/otpView.png) | ![Interests](assets/screenshots/interestsView.png) | ![User Type](assets/screenshots/user_type.png) | ![Profile](assets/screenshots/profileView.png) |
+| ![OTP](assets/screenshots/otpView.png) | ![Interests](assets/screenshots/interestsView.png) | ![User Type](assets/screenshots/createAServiceView.png) | ![Profile](assets/screenshots/profileView.png) |
 
 ### Main App Flow
 | Home View 1 | Home View 2 | Categories | Create Service |
